@@ -1,4 +1,4 @@
-int number1, number2, sum;
+int number2, number3, sum;
     
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
